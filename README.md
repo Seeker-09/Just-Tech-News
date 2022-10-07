@@ -14,3 +14,7 @@ Like most social media clones, users will need to create in order to interact wi
 - Handlebars
 - MySQL
 - Sequelize
+
+## Deployed Application
+
+https://just-tech-news-21971.herokuapp.com/
